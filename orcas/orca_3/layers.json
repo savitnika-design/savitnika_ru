@@ -1,0 +1,56 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "layers": [
+    {
+      "id": "tail",
+      "name": "tail",
+      "left": 467,
+      "top": 481,
+      "width": 100,
+      "height": 261,
+      "opacity": 1,
+      "blendMode": "normal"
+    },
+    {
+      "id": "fin1",
+      "name": "fin1",
+      "left": 991,
+      "top": 661,
+      "width": 164,
+      "height": 125,
+      "opacity": 1,
+      "blendMode": "normal"
+    },
+    {
+      "id": "fin2",
+      "name": "fin2",
+      "left": 1056,
+      "top": 373,
+      "width": 162,
+      "height": 144,
+      "opacity": 1,
+      "blendMode": "normal"
+    },
+    {
+      "id": "body",
+      "name": "body",
+      "left": 540,
+      "top": 449,
+      "width": 848,
+      "height": 265,
+      "opacity": 1,
+      "blendMode": "normal"
+    },
+    {
+      "id": "head",
+      "name": "head",
+      "left": 1060,
+      "top": 470,
+      "width": 454,
+      "height": 244,
+      "opacity": 1,
+      "blendMode": "normal"
+    }
+  ]
+}

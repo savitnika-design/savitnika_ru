@@ -1,0 +1,46 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "layers": [
+    {
+      "id": "fins",
+      "name": "fins",
+      "left": 1030,
+      "top": 346,
+      "width": 191,
+      "height": 332,
+      "opacity": 1,
+      "blendMode": "normal"
+    },
+    {
+      "id": "tail",
+      "name": "tail",
+      "left": 453,
+      "top": 352,
+      "width": 244,
+      "height": 333,
+      "opacity": 1,
+      "blendMode": "normal"
+    },
+    {
+      "id": "body",
+      "name": "body",
+      "left": 619,
+      "top": 431,
+      "width": 794,
+      "height": 183,
+      "opacity": 1,
+      "blendMode": "normal"
+    },
+    {
+      "id": "main_fin",
+      "name": "main_fin",
+      "left": 1019,
+      "top": 508,
+      "width": 188,
+      "height": 16,
+      "opacity": 0.8196078431372549,
+      "blendMode": "normal"
+    }
+  ]
+}

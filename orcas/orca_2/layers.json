@@ -1,0 +1,46 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "layers": [
+    {
+      "id": "finleft",
+      "name": "finleft",
+      "left": 522,
+      "top": 738,
+      "width": 205,
+      "height": 293,
+      "opacity": 1,
+      "blendMode": "normal"
+    },
+    {
+      "id": "tail",
+      "name": "tail",
+      "left": 1479,
+      "top": 601,
+      "width": 441,
+      "height": 223,
+      "opacity": 1,
+      "blendMode": "normal"
+    },
+    {
+      "id": "body",
+      "name": "body",
+      "left": 323,
+      "top": 194,
+      "width": 1404,
+      "height": 679,
+      "opacity": 1,
+      "blendMode": "normal"
+    },
+    {
+      "id": "fin_right",
+      "name": "fin_right",
+      "left": 778,
+      "top": 711,
+      "width": 295,
+      "height": 285,
+      "opacity": 1,
+      "blendMode": "normal"
+    }
+  ]
+}
